@@ -1,5 +1,6 @@
 Klonowanie repozytorium
 >> git clone https://github.com/puszolek/JAVAwwa32/
+>> cd JAVAwwa32
 
 Aktualizacja repozytorium
 >> git pull
@@ -9,3 +10,6 @@ Wejście do folderu
 
 Wypisanie plików
 >> ls
+
+Wypisanie zawartości pliku tekstowego
+>> cat nazwa_pliku
