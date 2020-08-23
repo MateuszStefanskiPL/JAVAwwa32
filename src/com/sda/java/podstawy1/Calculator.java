@@ -1,6 +1,5 @@
-package com.company;
+package com.sda.java.podstawy1;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Calculator {
